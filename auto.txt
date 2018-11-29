@@ -1,4 +1,4 @@
-Linux : 
+﻿Linux : 
 
 dokończyć :- Exercise
 Zrobić Postman
@@ -7,3 +7,5 @@ MySQL w domu ze względu na ograniczenia
 
 New line
 DDD
+New line 2
+
