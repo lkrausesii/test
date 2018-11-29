@@ -1,0 +1,6 @@
+Linux : 
+
+dokończyć :- Exercise
+Zrobić Postman
+
+MySQL w domu ze względu na ograniczenia
